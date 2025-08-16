@@ -68,10 +68,27 @@ export default function SearchResults() {
             <div className="flex gap-2 mt-auto">
               <a href={item.tikiUrl || "#"} target="_blank" rel="noopener noreferrer"
                 className="flex-1 bg-[#1A94FF] text-white text-sm py-1 rounded hover:opacity-90 text-center">Mua Tiki</a>
-              <a href={item.shopeeurl || "#"} target="_blank" rel="noopener noreferrer"
-                className="flex-1 bg-[#ee4d2d] text-white text-sm py-1 rounded hover:opacity-90 text-center">Mua Shopee</a>
-              <a href={item.fahashaurl || "#"} target="_blank" rel="noopener noreferrer"
-                className="flex-1 bg-[#C92127] text-white text-sm py-1 rounded hover:opacity-90 text-center">Mua Fahasha</a>
+              <a
+    href={item.shopeePrice ? item.shopeeurl : "#"}
+    target="_blank"
+    rel="noopener noreferrer"
+    className={`flex-1 bg-[#ee4d2d] text-white text-sm py-1 rounded text-center ${
+      !item.shopeePrice ? "opacity-50 cursor-not-allowed pointer-events-none" : "hover:opacity-90"
+    }`}
+  >
+    Mua Shopee
+  </a>
+
+  <a
+    href={item.fahashaPrice ? item.fahashaurl : "#"}
+    target="_blank"
+    rel="noopener noreferrer"
+    className={`flex-1 bg-[#C92127] text-white text-sm py-1 rounded text-center ${
+      !item.fahashaPrice ? "opacity-50 cursor-not-allowed pointer-events-none" : "hover:opacity-90"
+    }`}
+  >
+    Mua Fahasha
+  </a>
             </div>
           </div>
         ))}
