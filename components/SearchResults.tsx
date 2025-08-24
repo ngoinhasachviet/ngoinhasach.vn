@@ -53,7 +53,7 @@ export default function SearchResults() {
               <div className="flex flex-col justify-center">
                 <h3 className="text-base font-semibold text-gray-900 dark:text-white">{item.title}</h3>
                 <p className="text-sm text-gray-600 dark:text-gray-300">Tác giả: {item.author || "—"}</p>
-                <p className="text-sm text-gray-600 dark:text-gray-300">⭐ {item.ratingAverage || 0} ({item.totalVote || 0})</p>
+                <p className="text-sm text-gray-600 dark:text-gray-300">⭐ {item.ratingAverage || 0} ({item.quantitySold || 0})</p>
               </div>
             </div>
             <div className="text-sm space-y-1 mb-3">
