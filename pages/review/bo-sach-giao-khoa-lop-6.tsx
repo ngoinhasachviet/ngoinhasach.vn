@@ -173,11 +173,11 @@ export default function SGKLop6() {
               <div className="flex items-baseline gap-2 whitespace-nowrap">
                 <span className="font-semibold text-blue-600">Tiki:</span>
                 <a
-                  href="https://tiki.vn/search?q=s%C3%A1ch+gi%C3%A1o+khoa+l%E1%BB%9Bp+6"
+                  href="https://tiki.vn/sach-giao-khoa-bo-lop-6-chan-troi-sang-tao-sach-bai-hoc-bo-12-cuon-chuan-p275215840.html?spid=275215841&utm_source=accesstrade&utm_medium=tiki-aff&utm_campaign=AFF_NBR_ACT_UNK_TIKIVN-TNWGVSKG_ALL_VN_ALL_UNK_UNK_TAPX.b9c70e87-a6cf-4614-8d2f-52ad0f233df4_TAPU.7e816ab8-b482-4a28-bd38-1b2a6d1159b8&utm_term=TAPM.KjnK5ZkSxFthcqk8RoezBNExXfMrbAJGapFn5m1756920229_TAPP.2046475_TAPT.TI3&tclid=30606bdf-0d84-4230-841c-c9c87069918c&fsl=true&isOpenStore=false&trackId=68b879a5a517476a1a713272&osName=Windows&deepLink=tikivn%3A%2F%2Fproducts%2F275215840%3Fspid%3D275215841%26utm_source%3Daccesstrade%26utm_medium%3Dtiki-aff%26utm_campaign%3DAFF_NBR_ACT_UNK_TIKIVN-TNWGVSKG_ALL_VN_ALL_UNK_UNK_TAPX.b9c70e87-a6cf-4614-8d2f-52ad0f233df4_TAPU.7e816ab8-b482-4a28-bd38-1b2a6d1159b8%26utm_term%3DTAPM.KjnK5ZkSxFthcqk8RoezBNExXfMrbAJGapFn5m1756920229_TAPP.2046475_TAPT.TI3%26tclid%3D30606bdf-0d84-4230-841c-c9c87069918c&clickId=334af7ab-a913-432b-a5f0-2fa78efd0be2&fullUrl=https%3A%2F%2Fti.ki%2Fadd%2FTNWGVSKG%3Futm_term%3DTAPM.KjnK5ZkSxFthcqk8RoezBNExXfMrbAJGapFn5m1756920229_TAPP.2046475_TAPT.TI3%26TIKI_URI%3Dhttps%253A%252F%252Ftiki.vn%252Fsach-giao-khoa-bo-lop-6-chan-troi-sang-tao-sach-bai-hoc-bo-12-cuon-chuan-p275215840.html%253Fspid%253D275215841&isFBApp=false&deepLinkData=&hash=TNWGVSKG"
                   className="font-medium text-gray-900 hover:underline"
                   rel="nofollow sponsored"
                 >
-                  Xem giá SGK lớp 6
+                  177.400 ₫
                 </a>
               </div>
               <div className="hidden md:block h-4 w-px bg-emerald-100" />
