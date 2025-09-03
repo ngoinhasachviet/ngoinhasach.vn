@@ -163,8 +163,8 @@ export default function SGKLop1() {
             <div className="flex flex-nowrap items-baseline gap-6 md:gap-8 overflow-x-auto text-[15px]">
               <div className="flex items-baseline gap-2 whitespace-nowrap">
                 <span className="font-semibold text-blue-600">Tiki:</span>
-                <a href="https://tiki.vn/search?q=s%C3%A1ch+gi%C3%A1o+khoa+l%E1%BB%9Bp+1" className="font-medium text-gray-900 hover:underline" rel="nofollow sponsored">
-                  Xem giá
+                <a href="https://tiki.vn/sach-giao-khoa-bo-lop-1-chan-troi-sang-tao-sach-bai-tap-bo-11-cuon-2023-p252884440.html?spid=252884441&utm_source=accesstrade&utm_medium=tiki-aff&utm_campaign=AFF_NBR_ACT_UNK_TIKIVN-TNWGVSKG_ALL_VN_ALL_UNK_UNK_TAPX.b9c70e87-a6cf-4614-8d2f-52ad0f233df4_TAPU.7e816ab8-b482-4a28-bd38-1b2a6d1159b8&utm_term=TAPM.wvunDx5XrQW48DwuIxwqTPCB24ybiaft7Vbk6q1756920479_TAPP.2046475_TAPT.TI3&tclid=7c62cc14-9558-46e5-b2d6-f8901c464511&fsl=true&isOpenStore=false&trackId=68b87aa0a517476a1a7136ee&osName=Windows&deepLink=tikivn%3A%2F%2Fproducts%2F252884440%3Fspid%3D252884441%26utm_source%3Daccesstrade%26utm_medium%3Dtiki-aff%26utm_campaign%3DAFF_NBR_ACT_UNK_TIKIVN-TNWGVSKG_ALL_VN_ALL_UNK_UNK_TAPX.b9c70e87-a6cf-4614-8d2f-52ad0f233df4_TAPU.7e816ab8-b482-4a28-bd38-1b2a6d1159b8%26utm_term%3DTAPM.wvunDx5XrQW48DwuIxwqTPCB24ybiaft7Vbk6q1756920479_TAPP.2046475_TAPT.TI3%26tclid%3D7c62cc14-9558-46e5-b2d6-f8901c464511&clickId=8f6171b8-c0f4-42e5-b62b-7bb1d5bfd6f6&fullUrl=https%3A%2F%2Fti.ki%2Fadd%2FTNWGVSKG%3Futm_term%3DTAPM.wvunDx5XrQW48DwuIxwqTPCB24ybiaft7Vbk6q1756920479_TAPP.2046475_TAPT.TI3%26TIKI_URI%3Dhttps%253A%252F%252Ftiki.vn%252Fsach-giao-khoa-bo-lop-1-chan-troi-sang-tao-sach-bai-tap-bo-11-cuon-2023-p252884440.html%253Fspid%253D252884441&isFBApp=false&deepLinkData=&hash=TNWGVSKG" className="font-medium text-gray-900 hover:underline" rel="nofollow sponsored">
+                  133.000₫
                 </a>
               </div>
               <div className="hidden md:block h-4 w-px bg-emerald-100" />
