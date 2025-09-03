@@ -10,7 +10,7 @@ export default function ReviewSection() {
 
        {/* Chiến Binh Cầu Vồng */}
         <Link
-          href="/review/chien-binh-cau-vong"
+          href="/api/chien-binh-cau-vong"
           className="flex gap-4 bg-white rounded-2xl shadow-md hover:shadow-lg transition p-4 items-start"
         >
           <img
@@ -30,7 +30,7 @@ export default function ReviewSection() {
 
         {/* Trên Đường Băng */}
         <Link
-          href="/review/tren-duong-bang"
+          href="/api/tren-duong-bang"
           className="flex gap-4 bg-white rounded-2xl shadow-md hover:shadow-lg transition p-4 items-start"
         >
           <img
@@ -50,7 +50,7 @@ export default function ReviewSection() {
 
        {/* SGK Lớp 1 */}
         <Link
-          href="/review/bo-sach-giao-khoa-lop-1"
+          href="/api/bo-sach-giao-khoa-lop-1"
           className="flex gap-4 bg-white rounded-2xl shadow-md hover:shadow-lg transition p-4 items-start"
         >
           <img
@@ -70,7 +70,7 @@ export default function ReviewSection() {
 
         {/* SGK Lớp 6 */}
         <Link
-          href="/review/bo-sach-giao-khoa-lop-6"
+          href="/api/bo-sach-giao-khoa-lop-6"
           className="flex gap-4 bg-white rounded-2xl shadow-md hover:shadow-lg transition p-4 items-start"
         >
           <img
