@@ -132,7 +132,7 @@ export default function ReviewChienBinhCauVong() {
 
 {/* Bảng giá & ưu đãi hiển thị giống SearchResults */}
                     <div className="text-sm space-y-1 mb-4">
-                      <p><span className="text-[#1A94FF] font-semibold">Tiki:</span> 61.920₫</p>
+                      <p><span className="text-[#1A94FF] font-semibold">Tiki:</span> 101.250₫</p>
                       <p><span className="text-[#ee4d2d] font-semibold">Shopee:</span> —</p>
                       <p><span className="text-[#C92127] font-semibold">Fahasha:</span> —</p>
                       <p className="text-[13px] text-emerald-700 flex items-center gap-1">
@@ -144,7 +144,7 @@ export default function ReviewChienBinhCauVong() {
                     {/* 3 nút mua: CSS giống SearchResults.tsx */}
                     <div className="flex gap-2">
                       <a
-                        href="https://tiki.vn"
+                        href="https://tiki.vn/chien-binh-cau-vong-tai-ban-p278275295.html?spid=278275298&utm_source=accesstrade&utm_medium=tiki-aff&utm_campaign=AFF_NBR_ACT_UNK_TIKIVN-TNWGVSKG_ALL_VN_ALL_UNK_UNK_TAPX.b9c70e87-a6cf-4614-8d2f-52ad0f233df4_TAPU.7e816ab8-b482-4a28-bd38-1b2a6d1159b8&utm_term=TAPM.FPTafDZrwhHY9HT7z1aUo4cHsPhPxROjPqVr0F1756919871_TAPP.2046475_TAPT.TI3&tclid=a1b8bf89-6d7f-4cfe-a06e-3cce46b9cb1c&fsl=true&isOpenStore=false&trackId=68b8783fa517476a1a7129a9&osName=Windows&deepLink=tikivn%3A%2F%2Fproducts%2F278275295%3Fspid%3D278275298%26utm_source%3Daccesstrade%26utm_medium%3Dtiki-aff%26utm_campaign%3DAFF_NBR_ACT_UNK_TIKIVN-TNWGVSKG_ALL_VN_ALL_UNK_UNK_TAPX.b9c70e87-a6cf-4614-8d2f-52ad0f233df4_TAPU.7e816ab8-b482-4a28-bd38-1b2a6d1159b8%26utm_term%3DTAPM.FPTafDZrwhHY9HT7z1aUo4cHsPhPxROjPqVr0F1756919871_TAPP.2046475_TAPT.TI3%26tclid%3Da1b8bf89-6d7f-4cfe-a06e-3cce46b9cb1c&clickId=38ec805c-defa-4159-8d55-d8dc133dd68f&fullUrl=https%3A%2F%2Fti.ki%2Fadd%2FTNWGVSKG%3Futm_term%3DTAPM.FPTafDZrwhHY9HT7z1aUo4cHsPhPxROjPqVr0F1756919871_TAPP.2046475_TAPT.TI3%26TIKI_URI%3Dhttps%253A%252F%252Ftiki.vn%252Fchien-binh-cau-vong-tai-ban-p278275295.html%253Fspid%253D278275298&isFBApp=false&deepLinkData=&hash=TNWGVSKG"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex-1 bg-[#1A94FF] text-white text-sm py-1 rounded hover:opacity-90 text-center"
