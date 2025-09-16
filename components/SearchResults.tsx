@@ -59,7 +59,7 @@ export default function SearchResults() {
             <div className="text-sm space-y-1 mb-3">
               <p><span className="text-[#1A94FF] font-semibold">Tiki:</span> {item.tikiPrice ? item.tikiPrice + "₫" : "—"}</p>
               <p><span className="text-[#ee4d2d] font-semibold">Shopee:</span> {item.shopeePrice ? item.shopeePrice + "₫" : "—"}</p>
-              <p><span className="text-[#C92127] font-semibold">Fahasha:</span> {item.fahashaPrice ? item.fahashaPrice + "₫" : "—"}</p>
+              <p><span className="text-[#C92127] font-semibold">Lazada:</span> {item.fahashaPrice ? item.fahashaPrice + "₫" : "—"}</p>
               <p className="text-[13px] text-emerald-700 flex items-center gap-1">
                 <span className="font-semibold text-amber-600">Ngôi Nhà Sách</span> mến tặng bạn {(item.momoGift || 0) + "k"} qua
                 <img src="/images/momo.png" alt="MoMo" className="w-5 h-5 inline-block" />
@@ -87,7 +87,7 @@ export default function SearchResults() {
       !item.fahashaPrice ? "opacity-50 cursor-not-allowed pointer-events-none" : "hover:opacity-90"
     }`}
   >
-    Mua Fahasha
+    Mua Lazada
   </a>
             </div>
           </div>
